@@ -56,7 +56,7 @@
 	</table>
 </form:form>
 <form name="loginForm" method="post" action="login.php">
-<table width="20%" bgcolor="yellow" align="center">
+<table width="60%" bgcolor="blue" align="center">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
